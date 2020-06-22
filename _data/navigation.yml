@@ -1,9 +1,6 @@
 # main links
 main:
 
-  - title: "Portfolio"
-    url: /portfolio/
-        
   - title: "Blog"
     url: /tag-archive/    
   
