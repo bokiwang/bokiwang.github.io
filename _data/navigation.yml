@@ -1,6 +1,12 @@
 # main links
 main:
 
+  - title: "Research"
+    url: /research/
+
+  - title: "Side Projects"
+    url: /projects/
+
   - title: "Blog"
     url: /tag-archive/    
   

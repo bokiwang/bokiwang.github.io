@@ -18,7 +18,7 @@ toc_icon: "list"
 
 ## Research Support
 
-20 – 21 **Principle Investigator**, NASPSPA Graduate Student Research Grant ($2000), North American Society for the Psychology of Sport and Physical Activity
+20 – 21 **Principal Investigator**, NASPSPA Graduate Student Research Grant ($2000), North American Society for the Psychology of Sport and Physical Activity
 - Title: *Modifying Motor Skill Learning via Neuromodulation of Frontoparietal Networks*
 
 18 – 19 **Principal Investigator**, JumpStart Research Grant ($500), ASU Graduate and Professional Students’ Association 
@@ -79,7 +79,7 @@ toc_icon: "list"
 
 - 2012-2014, Undergraduate Research Assistant, Neural Engineering and Rehabilitation Lab, Department of Biomedical Engineering, Tianjin University
 
-## Service and Leadership
+## Leadership, Service and Volunteering
 
 - 2018.12 - , Secretary, GRADient, Arizona State University, Tempe AZ
 - 2019.11 - , Volunteer, Data-related solutions, Arizona State Sun Devils Women’s Basketball
