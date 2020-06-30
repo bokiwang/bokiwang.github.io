@@ -82,7 +82,6 @@ toc_icon: "list"
 ## Leadership, Service and Volunteering
 
 - 2018.12 - , Secretary, GRADient, Arizona State University, Tempe AZ
-- 2019.11 - , Volunteer, Data-related solutions, Arizona State Sun Devils Women’s Basketball
 - 2020.01 - 05, Award reviewer for ASU Graduate and Professional Student Association
 - 2019 - 2020, Club Officer, Melrose Toastmasters, Phoenix, AZ
 - 2018, Travel Grant reviewer for ASU Graduate and Professional Student Association
