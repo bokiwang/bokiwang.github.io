@@ -6,8 +6,8 @@ permalink: /cv/
 redirect_from:
   - /resume
 toc: true
-toc_label: "Go To"
-toc_icon: "list" 
+toc_label: "Menu"
+toc_icon: "list-alt" 
 ---
 ### Education
 

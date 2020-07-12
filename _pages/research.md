@@ -11,4 +11,4 @@ I study motor skill acquisition. Or how to learn to move with a level of experti
 
 I use neuromodulation to tackle this question. Neuromodulation, by its name, is to modulate neural activity purposefully. _Can we enhance visuospatial function through neuromodulation, and thereby enhance motor skill learning?_ Answering these questions can reveal an opportunity to improve motor learning, which ultimately leads to better performance. 
 
-Below are my recent projects for this research. Lots to write about :exploding_head:, and I am working on it. All the titles are out there so that you can get a :eyes: of what I am doing. 
+Below are my recent projects for this research. I am working on developing the contents, but all the titles are out there so that you can get a :eyes: of what I am doing. 
