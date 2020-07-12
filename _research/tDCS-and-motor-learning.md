@@ -2,4 +2,4 @@
 title: "tDCS and Motor Learning"
 ---
 
-Dissertation project part 1
+Part 1 of dissertation.

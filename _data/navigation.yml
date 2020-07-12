@@ -14,7 +14,7 @@ main:
     url: /cv/
   
   - title: "中文"
-    url: /中文/  
+    url: /chinese/  
     
   # - title: "Sample Collections"
   #   url: /collection-archive/

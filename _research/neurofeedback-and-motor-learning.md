@@ -2,4 +2,4 @@
 title: "Neurofeedback and Motor Learning"
 ---
 
-Dissertation project part 2
+Part 2 of Dissertation

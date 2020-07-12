@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "Boki's Bowl"
 title_separator          : "-"
-subtitle                 : "Steamingly thoughty" # site tagline that appears below site title in masthead
+subtitle                 : "这碗 大" # site tagline that appears below site title in masthead
 name                     : "Peiyuan (Boki) Wang"
 description              : "Personal website with some blogs and random notes."
 url                      : "https://bokiwang.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -107,7 +107,7 @@ author:
       # url: "https://your-website.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/boki-p"
+      url: "https://github.com/bokiwang"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/BokiPWang"
@@ -120,7 +120,7 @@ footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/boki-p"
+      url: "https://github.com/bokiwang"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/BokiPWang"

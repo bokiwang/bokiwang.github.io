@@ -7,4 +7,4 @@ entries_layout: grid
 classes: wide
 ---
 
-A few projects on the side, mainly sports related.
+A few side gigs, mainly sports related. :juggling_person:
