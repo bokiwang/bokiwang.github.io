@@ -14,7 +14,7 @@ Specificaly, this workout tracking tool that can:
 - generate daily, weekly and monthly reports.
 
 ### Example
-You can enter your training data into an Excel tab to keep track of your reps and sets :weight_lifting:.
+You can enter your training data into an Excel tab to keep track of your reps and sets.
 ![Data entry](/assets/images/workout-data-entry.JPG)
 
 Then it can generate a sample weekly report that looks like this. You'll notice that training load and intensity are blank, because the entered data are for body-weight exercises. 
