@@ -1,5 +1,5 @@
 ---
-title: "Side Dishes"
+title: "Leisure Projects"
 layout: collection
 permalink: /projects/
 collection: projects
@@ -7,4 +7,6 @@ entries_layout: grid
 classes: wide
 ---
 
-Research is the entrée :stew:. Everyone once in a while, I also need some side dishes :fries::rice_cracker::lollipop: for balance. Below are my side projects. 
+I also do some leisure projects for fun and for practicality. You might find some of them of value to you. 
+
+More coming soon.

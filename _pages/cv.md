@@ -17,7 +17,10 @@ toc_icon: "list-alt"
 
 ### Research Support
 
-20 – 21 **Principal Investigator**, NASPSPA Graduate Student Research Grant ($2000), North American Society for the Psychology of Sport and Physical Activity
+20 – 21	**Principal Investigator**, FNNR Mini-Grant ($2000), The Foundation of Neurofeedback and Neuromodulation Research  
+- Title: “EEG Analysis on Frontoparietal Coherence: Can Frontoparietal Coherence Serve as Neurofeedback Training Target for Enhancing Motor Learning?”
+
+20 – 21 **Principal Investigator**, NASPSPA Graduate Student Research Grant ($2000), North American Society for the Psychology of Sport and Physical Activity  
 - Title: *Modifying Motor Skill Learning via Neuromodulation of Frontoparietal Networks*
 
 18 – 19 **Principal Investigator**, JumpStart Research Grant ($500), ASU Graduate and Professional Students’ Association 
