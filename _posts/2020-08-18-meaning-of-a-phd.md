@@ -14,7 +14,7 @@ permalink: /:categories/:title
 <!--more-->
 
 
-Earlier today, I had the pleasure to be on a graduate student panel to discuss my experiences with Imposter Syndrome for an [ASU Midday Mindfulness Session](https://www.youtube.com/watch?v=mKaPDCH3l9M). It was profound to hear that our self-doubt and stress when feeling like imposters were echoed by so many (students, faculty and staff alike) . It led me to reflect on how my PhD has felt like a dance with imposterism. 
+Earlier today, I had the pleasure to be on a graduate student panel to discuss my experiences with Imposter Syndrome for an [ASU Midday Mindfulness](https://www.youtube.com/watch?v=mKaPDCH3l9M) Session. It was profound to hear that our self-doubt and stress when feeling like imposters were echoed by so many (students, faculty and staff alike). It led me to reflect on how my PhD has felt like a dance with imposterism. 
 
 As an international PhD student, I had seriously doubted my worth as a person and my belonging as a scientist during my first few years of graduate school. I had also doubted the value of getting a PhD: what is the meaning of feeling ignorant, defeated and stressed all the time? 
 
@@ -67,7 +67,7 @@ End of proposal :white_check_mark:
 ---
 
 ### Any Findings? What does a PhD stand for? 
-What I think the meaning of a PhD is now? I think my friend Richard Gao captured it best in his [blog](http://www.rdgao.com/year-3-and-a-half/) by saying that "PhD is a **Perceptual heap of Discomfort**." So true. My advisor also echoes this. She once said to me "you are growing as a scientist, as a teacher, and as a person. And growth comes with challenges."  If you are also feeling imposter syndrome during your PhD, think of imposterism as a unpleasant by-product of growth. 
+What I think the meaning of a PhD is now? I think my friend Richard Gao captured it best in his [blog](http://www.rdgao.com/year-3-and-a-half/) by saying that "PhD is a **Perpetual heap of Discomfort**." So true. My advisor also echoes this. She once said to me "you are growing as a scientist, as a teacher, and as a person. And growth comes with challenges."  If you are also feeling imposter syndrome during your PhD, think of imposterism as a unpleasant by-product of growth. 
 
 #### Supplementry Materials - The Symptoms of PhD imposters
 Below are a list of figures that summarized our interpretations of a PhD at 2017, taken during the Texas trip. Looking at these now, all the struggles with imposter syndrome seem sweet. 
