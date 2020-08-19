@@ -72,5 +72,5 @@ What I think the meaning of a PhD is now? I think my friend Richard Gao captured
 #### Supplementry Materials - The Symptoms of PhD imposters
 Below are a list of figures that summarized our interpretations of a PhD at 2017, taken during the Texas trip. Looking at these now, all the struggles with imposter syndrome seem sweet. 
 <figure style="width: 500px" class="align-left">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/phd_figures.JPG" alt="Results">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/phd_figures.jpg" alt="Results">
 </figure> 
