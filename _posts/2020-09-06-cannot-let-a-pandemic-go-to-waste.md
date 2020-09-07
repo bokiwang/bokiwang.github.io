@@ -1,6 +1,6 @@
 ---
 classes: wide
-title: 'Can Not Let a Pandemic Go to Waste'
+title: 'Cannot Let a Pandemic Go to Waste'
 excerpt_separator: "<!--more-->"
 categories:
   - reflections
