@@ -9,7 +9,7 @@ tags:
 permalink: /:categories/:title
 ---
 
-The best thing that the pandemic brought about to me education-wise was no doubt the [NeuroMatch Academy](https://www.neuromatchacademy.org/). If this computational neuroscience workshop were not forced to move online (and thus open for all), I probably would not have been able to afford attending. 
+The best thing that the pandemic brought about to me education-wise <!--more--> was no doubt the [NeuroMatch Academy](https://www.neuromatchacademy.org/). If this computational neuroscience workshop were not forced to move online (and thus open for all), I probably would not have been able to afford attending. 
 
 I have quite a few take aways from the workshop. Today I want to share two things that I found to be the most valuable.
 
