@@ -12,7 +12,8 @@ toc_icon: "list-alt"
 
 ### Education
 
-* Ph.D in Biomedical Engineering, Arizona State University, 2021 (expected)
+* Ph.D in Biomedical Engineering, Arizona State University, 2021
+  - Dearest advisor: [Dr. Schaefer](https://scholar.google.com/citations?user=gD8I6EYAAAAJ&hl=en) at the [Motor Rehabilitation and Learning Laboratory](http://www.mrllab.org/)
 * M.S. in Kinesiology, Pennsylvania State University, 2017
 * B.S. in Biomedical Engineering, B.A. in English, Tianjin University, China, 2014
 

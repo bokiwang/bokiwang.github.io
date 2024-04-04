@@ -3,23 +3,32 @@ layout: single
 classes: wide
 intro: 
   - image_path: /assets/images/shooting_resized.PNG
-    image_caption: "Courtesy by [**Der Jump**](https://www.artstation.com/derjump)"
-    alt: "Bball girl"
-    title: "About Me"
-    excerpt: "I am a PhD candidate in Biomedical Engineering at at Arizona State University. I work with [Dr. Schaefer](https://scholar.google.com/citations?user=gD8I6EYAAAAJ&hl=en) at the [Motor Rehabilitation and Learning Laboratory](http://www.mrllab.org/). I am currently studying  the feasibility of using neuromodulation techniques to modulate motor learning and performance."
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-    url: 'research'
+    image_caption: "Sketch by [**Der Jump**](https://derjump.artstation.com/)"
+    alt: "Brain me a bucket"
+    title: "Hello there!"
+    excerpt: "Welcome to my corner of the digital arena, or as I call it, Boki’s Bowl! I am Boki Buckets, a basketball enthusiast (obviously) and seasoned data scientist on a mission to revolutionize Chinese basketball and empower female professionals in the industry. In Boki's bowl, I serve up the food for thought I've gathered along the way, seasoned with scientific methods and a people-first mindset. Perhaps you'll find a serving or two that satisfies your appetite."
+    # btn_label: "Read More"
+    # btn_class: "btn--primary"
+    # url: 'research'
 author_profile: true
 ---
 
-{% include feature_row id="intro" type="left" %}
+<!-- {% include feature_row id="intro" type="left" %} -->
 
-I am a behavioral neuroscientist, and I study motor control and motor learning. I find the reciprocal relationship between the brain and the body amazing: the brain "controls" the body, and movements of the body also alter the brain. I study neuroscience (and others such as biomechanics and psychology) to understand movement, because ultimately the real reason for brain is to control <b>movement/motor behavior</b>. This [Ted Talk](https://youtu.be/7s0CpRfyYp8) by Daniel Wolpert and this [article](https://www.cell.com/neuron/pdf/S0896-6273(16)31040-6.pdf) by John Krakauer *et al.* articulate this view very eloquently.
+### About me
 
-My interest in studying movement is seeded in my passion for sports, as illustrated by the cartoon. I had dreamed to become a basketball player, but there was not any basketball teams for girls where I grew up. I played alongside boys and men before finally co-founding the women’s club basketball team at Tianjin University in 2014. I am also driven to study movement because I have always been bothered by the notion that athletes are intellectually inferior to mathematicians, engineers, etc.	:weary:	I think this notion is flawed. :pensive: If only all of us know about the science behind movement control! Once we understand the difficulty in controlling complex movement and how athletes practiced to master their craft so skillfully and smoothly (while under constraints and pressure), we cannot help but fully appreciate the intelligence of athletes.
+Welcome to my corner of the digital arena, or as I call it, Boki's Bowl! 
+  
+I am Boki Buckets, a basketball enthusiast (obviously) and seasoned data scientist on a mission to revolutionize Chinese basketball and empower female professionals in the industry.
 
-That said, my goal is to apply scientific research and insights to improve motor learning and motor performance. By studying and communicating movement research, I also hope to serve as an advocate for women's sports and athletic intelligence. Of course, I am looking forward to using my skills for women's basketball. :basketball: :basketball_woman: 
+I specialize in using data analytics to inform better strategy and execution in both game and practice settings for players, coaches and staff. With a M.S in Kinesiology and a Ph.D. in Biomedical Engineering, I thrive on tackling hard questions related to game preparation, practice design, player evaluation and effective teaching and learning strategies. My experience includes working in top leagues like the WNBA and Overtime Elite alongside world-class athletes.
 
+Beyond basketball, I'm a creative at heart, blending my interests for writing, design and goofing around. 
 
+In Boki's bowl, I serve up the food for thought I've gathered along the way, seasoned with scientific methods and a people-first mindset. Perhaps you'll find a serving or two that satisfies your appetite. 
 
+Cheers (pun intended), 
+
+Boki Buckets
+
+I would love to hear your thoughts and experiences. Feel free to send me an [email](bokibuckets@yeah.net) or connect on LinkedIn.
