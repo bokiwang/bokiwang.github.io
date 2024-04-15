@@ -10,6 +10,12 @@ toc_label: "Menu"
 toc_icon: "list-alt" 
 ---
 
+### Work Experience
+
+* 2023/04 - 2024/01 **Consultant** of Basketball Analytics and Research, *21 Point Studio*, @ China
+* 2023/04 - 2023/10 **Basketball Analytics Researcher** and Interpreter @ *Washington Mystics*, Washington DC
+* 2021/09 - 2022/12 **Data Scientist**, Basketball Operations @ *Overtime Elite*, Atlanta GA
+
 ### Education
 
 * Ph.D in Biomedical Engineering, Arizona State University, 2021
